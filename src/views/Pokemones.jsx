@@ -24,6 +24,8 @@ const Pokemones = () => {
     const handleChange = (event) =>{
         setId(event.target.value)       
     }  
+
+    console.log(id)
     
     return (
         <>
@@ -47,7 +49,7 @@ const Pokemones = () => {
                             </Card.Text>
                             <Button className="justify-content-center" 
                                     variant="danger"
-                                    onClick={searchPokemon()} >
+                                    onClick={searchPokemon} >
                                 Ver Detalle
                             </Button>
                         </Card.Body>

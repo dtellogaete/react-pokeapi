@@ -1,6 +1,6 @@
 # React Pokemon 
 
-El programa puede verse en [Create React App](https://github.com/facebook/create-react-app).
+El programa puede verse en [https://dtellogaete.github.io/react-pokeapi](https://dtellogaete.github.io/react-pokeapi).
 
 ## Características
 

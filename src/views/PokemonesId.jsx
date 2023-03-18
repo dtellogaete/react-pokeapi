@@ -36,10 +36,8 @@ const PokemonesId = () => {
                     <Button className="justify-content-center" variant="danger" >
                     <Link  to="/pokemones" style={{ color: '#FFFFFF', textDecoration: 'none' }}>
                     Regresar 
-                    </Link> 
-                        
-                    </Button>
-                     
+                    </Link>                         
+                    </Button>                     
                     </Card.Body>
                     </Card>   
                 </Col>                
