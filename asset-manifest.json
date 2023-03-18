@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-pokeapi/static/css/main.412d56cd.css",
-    "main.js": "/react-pokeapi/static/js/main.ff1dbcbf.js",
+    "main.js": "/react-pokeapi/static/js/main.c501a2b5.js",
     "index.html": "/react-pokeapi/index.html",
     "main.412d56cd.css.map": "/react-pokeapi/static/css/main.412d56cd.css.map",
-    "main.ff1dbcbf.js.map": "/react-pokeapi/static/js/main.ff1dbcbf.js.map"
+    "main.c501a2b5.js.map": "/react-pokeapi/static/js/main.c501a2b5.js.map"
   },
   "entrypoints": [
     "static/css/main.412d56cd.css",
-    "static/js/main.ff1dbcbf.js"
+    "static/js/main.c501a2b5.js"
   ]
 }
